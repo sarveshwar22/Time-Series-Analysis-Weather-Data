@@ -3,6 +3,7 @@ import numpy as np
 import model as m
 import pandas as pd
 
+
 st.set_page_config(
      page_title="Time Series Temperature Forecast",
      page_icon="📈",
